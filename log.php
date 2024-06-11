@@ -165,7 +165,19 @@
       </nav>
     </div>
   </header>
-
+  <div class="singup">
+            <form class="form">
+                <div>
+                    <input type='text' id='email' placeholder="E-mail" autocomplete="on"><br><br>
+                </div>
+                <div>
+                    <input type='password' id='password' autocomplete="on" placeholder="Senha"><br>
+                </div><br>
+                <p class="lead">
+                <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Entrar</a>
+                </p>
+            </form>
+        </div>
   <footer class="mt-auto text-white-50">
     <p>template pica por <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.<br> Projeto criado por <a href="https://www.linkedin.com/in/marina-dias-084475245/" class="text-white">@Marinadiasrocha</a></p>
   </footer>
