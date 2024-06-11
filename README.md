@@ -1,6 +1,10 @@
 # Índice
 
-[Aplicação](https://github.com/MarshyyUWU/cadastroJava/blob/main/README.md#projeto---criando-tela-de-cadastro-com-javascript)  
+[Aplicação](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#-aplica%C3%A7%C3%A3o-na-p%C3%A1gina)  
+[Descrição](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#%EF%B8%8Fdescri%C3%A7%C3%A3o)
+[Linguagens-Utilizadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#-linguagems-usadas)
+[Fontes-Consultadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#fontes-consultadas)
+[Autores](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#autores)
 
 # 💕 Aplicação na página
 
@@ -11,10 +15,10 @@ Uma pagina usando php e bootstrap, com as informações tiradas do gif do teams 
 - Com ajuda da Julia Oliveira
 
 ### 💖 Linguagems usadas
-Css
-Html
-Bootstrap
-xamp
+- Css
+- Html
+- Bootstrap
+- xamp
 #### VS CODE
 - Version: 1.71.0 (system setup)
 - Commit: 784b0177c56c607789f9638da7b6bf3230d47a8c
