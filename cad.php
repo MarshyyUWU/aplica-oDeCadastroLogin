@@ -166,14 +166,6 @@
     </div>
   </header>
 
-  <main class="px-3">
-    <h1>Seja bem vind@.</h1>
-    <p class="lead">Essa página é a pagina principal de um pequeno projeto criado para o ensino de aecsso a base de dados utilizando PHP como linguagem de back-end. Acesse o repositório do projeto no</p>
-    <p class="lead">
-      <a href="https://github.com/MarshyyUWU/aplica-oDeCadastroLogin" class="btn btn-lg btn-light fw-bold border-white bg-white">Github</a>
-    </p>
-  </main>
-
   <footer class="mt-auto text-white-50">
     <p>template pica por <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, por <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.<br> Projeto criado por <a href="https://www.linkedin.com/in/marina-dias-084475245/" class="text-white">@Marinadiasrocha</a></p>
   </footer>
