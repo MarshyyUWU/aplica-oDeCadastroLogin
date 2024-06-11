@@ -1,10 +1,10 @@
 # Índice
 
 [Aplicação](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#-aplica%C3%A7%C3%A3o-na-p%C3%A1gina)  
-[Descrição](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#%EF%B8%8Fdescri%C3%A7%C3%A3o)
-[Linguagens-Utilizadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#-linguagems-usadas)
-[Fontes-Consultadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#fontes-consultadas)
-[Autores](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#autores)
+[Descrição](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#%EF%B8%8Fdescri%C3%A7%C3%A3o)  
+[Linguagens-Utilizadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#-linguagems-usadas)  
+[Fontes-Consultadas](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#fontes-consultadas)  
+[Autores](https://github.com/MarshyyUWU/aplica-oDeCadastroLogin?tab=readme-ov-file#autores)  
 
 # 💕 Aplicação na página
 
