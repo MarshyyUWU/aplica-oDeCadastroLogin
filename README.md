@@ -15,10 +15,11 @@ Uma pagina usando php e bootstrap, com as informações tiradas do gif do teams 
 - Com ajuda da Julia Oliveira
 
 ### 💖 Linguagems usadas
-- Css
-- Html
-- Bootstrap
-- xamp
+- ``Css``
+- ``Html``
+- ``Bootstrap``
+- ``xamp``
+- ``Github``
 #### VS CODE
 - Version: 1.71.0 (system setup)
 - Commit: 784b0177c56c607789f9638da7b6bf3230d47a8c
